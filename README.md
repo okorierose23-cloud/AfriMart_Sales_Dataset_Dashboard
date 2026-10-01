@@ -39,7 +39,7 @@ This project was created as part of a data analysis portfolio to demonstrate Exc
 
 ---
 Files in this Repository
-- [Sales Dataset](AfriMart_Sales_Dataset (1)_RoseOkorie.xlsx)
+- [Sales Dataset](AfriMart_Sales_Dataset_RoseOkorie.xlsx)
 - [Dashboard](AfriMart_Sales_Dashboard.png)
 - README.md
 
